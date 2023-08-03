@@ -13,7 +13,7 @@
 </head>
 <body class="bg-primary-subtle d-flex flex-column justify-content-between align-items-center"dir="rtl" style="height:100vh">
 <   <header class="container-fluid">
-        <div class="row bg-primary p-1 text-center">
+        <div class="row bg-info p-1 text-center">
             <nav class="col-12">
                 navber
             </nav>
